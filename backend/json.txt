@@ -1,0 +1,57 @@
+{
+    "memberName":"m3",
+    "email":"m3@gmail.com",
+    "password":"password3",
+    "racId":"rac3",
+    "birthDate":"2021-09-29T22:53:56.125+00:00",
+    "city":"city3",
+    "avenue":"it",
+    "academicYear":"2017/2018",
+    "pic":"none"
+}
+ memberName, email, password, racId, birthDate, city, avenue, academicYear, pic
+
+{
+    "avenueName":"IS",
+    "avenueId":"av2",
+    "noOfMembers":20
+}
+
+
+{
+     "meetingLink":"google meet",
+            "time":"5pm", 
+            "date":"2021-12-13T19:36:50.140Z",
+            "title":"monthly meeting",
+            "description":"nothing",
+            "isFinished":false ,
+            "avenueName": "it",
+            "virtualBg":"Nothing"
+}
+
+
+{
+    "avenueName":"Club Service",
+    "projectName":"Sonduru Sajje",
+    "description":"none",
+    "startDate":"2021-09-25T16:08:48.986+00:00",
+    "duration":"3weeks",
+    "projectStatus":true,
+    "task":{
+        "role":["chair","co-chair","secretary","flyer designer","moderator","finance director"],
+        "RACUOK_ID":["RAC1","RAC2","RAC3","RAC4","RAC5","RAC6"],
+        "points":[10,20,10,30,40,10]
+    },
+    "projectMilestones":["started","dry run","finished"]
+}
+
+{
+   "RACUOK_ID":"RCUUOK11",
+   "memberName":"Basic member",
+   "avenue":"IS",
+   "reason":"sick"
+}
+
+basic user-:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYmExMmI5YzNhYWQ1YzYwYTUxZmM0NCIsImlhdCI6MTYzOTU4NDQ5MywiZXhwIjoxNjQyMTc2NDkzfQ.ujkIY0WHxtfIQbdbrSc-1A89OXpYaUgt2R6aPyid0wg
+
